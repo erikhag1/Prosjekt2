@@ -1,1 +1,8 @@
-= prosjekt2
+= Prosjekt2
+
+Hei Prosjekt 2!
+
+link:mer_info.adoc[Mer info]
+
+Se ogs? link:../prosjekt1/README.adoc[Prosjekt 1] 
+Se ogs? link:../README.adoc[Prosjektoversikt] 
